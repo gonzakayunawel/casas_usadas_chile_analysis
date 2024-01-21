@@ -10,8 +10,6 @@ Docente: Paulette N. Reyes Baeza
 
 Autor: Gonzalo Daniel Cayunao Erices
 
-<img src='https://cdn-icons-png.flaticon.com/512/25/25231.png' width=3%>   [Github del Proyecto](https://github.com/gonzakayunawel)
-
 ---
 ---
 
